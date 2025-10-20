@@ -16,10 +16,7 @@ Data is sent from the Arduino to MATLAB for live plotting and analysis.
 - `PulseOximeter_MATLAB.m` — MATLAB script for live plotting  
 - `Datasheet_Pulse_Oximeter.pdf` — reference sensor datasheet  
 - `images/` — visual results and graphs  
-  - `testingblades.png`  
-  - `testingcapacitors.png`  
-  - `testingmotors.png`  
-  - `testingeverything.png`  
+  - `matlab_demonstration.png`  
 - `README.md`
 
 
@@ -32,4 +29,5 @@ Data is sent from the Arduino to MATLAB for live plotting and analysis.
 
 ## Example Output
 
-![MATLAB Live Plot](images/testingeverything.png)
+![MATLAB Live Plot](images/matlab_demonstration.png)
+
