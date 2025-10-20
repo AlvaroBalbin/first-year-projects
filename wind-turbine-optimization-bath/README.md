@@ -1,4 +1,4 @@
-# Wind Turbine Testing — Project Week 1
+# Wind Turbine Testing  Project Week 1
 
 This project tested different combinations of motors, blades, and capacitors to determine which setup produced the highest voltage output in a wind tunnel.  
 All measurements were taken experimentally and visualized using MATLAB.
